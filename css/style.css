@@ -385,6 +385,7 @@ body {
 /* <-------------------------------------------fin de estilos de header-> */
 /* estilos generales */
 .section {
+  overflow: hidden;
   width: 90%;
   margin: 80px auto;
 }
